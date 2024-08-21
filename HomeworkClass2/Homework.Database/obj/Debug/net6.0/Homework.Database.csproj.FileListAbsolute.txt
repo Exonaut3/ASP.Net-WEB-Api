@@ -1,0 +1,11 @@
+D:\Desktop\test\HomeworkClass2\Homework.Database\bin\Debug\net6.0\Homework.Database.deps.json
+D:\Desktop\test\HomeworkClass2\Homework.Database\bin\Debug\net6.0\Homework.Database.dll
+D:\Desktop\test\HomeworkClass2\Homework.Database\bin\Debug\net6.0\Homework.Database.pdb
+D:\Desktop\test\HomeworkClass2\Homework.Database\obj\Debug\net6.0\Homework.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\test\HomeworkClass2\Homework.Database\obj\Debug\net6.0\Homework.Database.AssemblyInfoInputs.cache
+D:\Desktop\test\HomeworkClass2\Homework.Database\obj\Debug\net6.0\Homework.Database.AssemblyInfo.cs
+D:\Desktop\test\HomeworkClass2\Homework.Database\obj\Debug\net6.0\Homework.Database.csproj.CoreCompileInputs.cache
+D:\Desktop\test\HomeworkClass2\Homework.Database\obj\Debug\net6.0\Homework.Database.dll
+D:\Desktop\test\HomeworkClass2\Homework.Database\obj\Debug\net6.0\refint\Homework.Database.dll
+D:\Desktop\test\HomeworkClass2\Homework.Database\obj\Debug\net6.0\Homework.Database.pdb
+D:\Desktop\test\HomeworkClass2\Homework.Database\obj\Debug\net6.0\ref\Homework.Database.dll

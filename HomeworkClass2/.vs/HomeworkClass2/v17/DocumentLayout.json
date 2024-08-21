@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\test\\HomeworkClass2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF3B7EF-1F3F-4C6F-B0D5-6C0467474E7B}|HomeworkClass2\\HomeworkClass2.csproj|d:\\desktop\\test\\homeworkclass2\\homeworkclass2\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF3B7EF-1F3F-4C6F-B0D5-6C0467474E7B}|HomeworkClass2\\HomeworkClass2.csproj|solutionrelative:homeworkclass2\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{130E3CBC-EC25-43DC-998D-9F4DC152360A}|Homework.Database\\Homework.Database.csproj|d:\\desktop\\test\\homeworkclass2\\homework.database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{130E3CBC-EC25-43DC-998D-9F4DC152360A}|Homework.Database\\Homework.Database.csproj|solutionrelative:homework.database\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF3B7EF-1F3F-4C6F-B0D5-6C0467474E7B}|HomeworkClass2\\HomeworkClass2.csproj|d:\\desktop\\test\\homeworkclass2\\homeworkclass2\\homeworkclass2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DBF3B7EF-1F3F-4C6F-B0D5-6C0467474E7B}|HomeworkClass2\\HomeworkClass2.csproj|solutionrelative:homeworkclass2\\homeworkclass2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeworkClass2",
+              "DocumentMoniker": "D:\\Desktop\\test\\HomeworkClass2\\HomeworkClass2\\HomeworkClass2.csproj",
+              "RelativeDocumentMoniker": "HomeworkClass2\\HomeworkClass2.csproj",
+              "ToolTip": "D:\\Desktop\\test\\HomeworkClass2\\HomeworkClass2\\HomeworkClass2.csproj",
+              "RelativeToolTip": "HomeworkClass2\\HomeworkClass2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T17:19:41.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Desktop\\test\\HomeworkClass2\\Homework.Database\\Database.cs",
+              "RelativeDocumentMoniker": "Homework.Database\\Database.cs",
+              "ToolTip": "D:\\Desktop\\test\\HomeworkClass2\\Homework.Database\\Database.cs",
+              "RelativeToolTip": "Homework.Database\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:17:11.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Desktop\\test\\HomeworkClass2\\HomeworkClass2\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "HomeworkClass2\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Desktop\\test\\HomeworkClass2\\HomeworkClass2\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "HomeworkClass2\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCIAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:15:57.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
